@@ -25,6 +25,9 @@ O script gera um relatório estratégico contendo:
 2. Crie um ambiente virtual: `python -m venv venv`
 3. Ative o ambiente e instale as dependências: `pip install pandas`
 4. Execute o script principal: `python analise_sdr.py`
+   
+   ## 📊 Preview do Dashboard
+![Dashboard de Análise SDR](dashboard_preview.png)
 
 ---
 *Desenvolvido focado na transição de dados e automação de processos comerciais.*
