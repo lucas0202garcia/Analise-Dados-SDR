@@ -27,7 +27,7 @@ O script gera um relatório estratégico contendo:
 4. Execute o script principal: `python analise_sdr.py`
    
    ## 📊 Preview do Dashboard
-![Dashboard de Análise SDR](dashboard_preview.png)
+![Dashboard de Análise SDR](dashboard_preview.png.png)
 
 ---
 *Desenvolvido focado na transição de dados e automação de processos comerciais.*
